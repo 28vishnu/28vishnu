@@ -1,4 +1,4 @@
-# <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Namaste 🙏🏻, I'm Saketh Nanduri! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+# <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Saketh Nanduri! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5bzM3NnZ0OW9pNHB5MnY4amZ0ZHRiOW9yNHB3ejVpNzdyN3QyMiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="210">
 
